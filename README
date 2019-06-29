@@ -1,2 +1,5 @@
+Sample website: http://18.223.122.166:8080/Jupiter/
+It's running on AWS EC2
+
 Tomcat 9.0.21
 https://tomcat.apache.org/download-90.cgi
