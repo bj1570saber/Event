@@ -1,5 +1,7 @@
-Sample website: http://18.223.122.166:8080/Jupiter/
-It's running on AWS EC2
-
-Tomcat 9.0.21
-https://tomcat.apache.org/download-90.cgi
+Event Finder: Java Web Service Development – Personalized Recommendation Engine of Events around you
+This project runs on Tomcat server with RESTful APIs to handle HTTP requests and responses.
+Data fetched from Ticketmaster API.
+Use MySQL to store events and user data. 
+According to user’s geolocation and search keywords, the server side function will fetch most related events from ticketmast.com, and store them in MySQL.
+Content-based recommendation base on users’ favorite events history.
+Deployed to Amazon EC2: 
